@@ -1,7 +1,9 @@
 # Algorithm Average Time Complexity Cheat Sheet
 
-### Authors
-- [Karagkounis Leonidas](https://github.com/KaragkounisL)
+#### Authors
+[Karagkounis Leonidas](https://github.com/KaragkounisL)
+#### Date
+17/01/2023
 
 
 ## Table
